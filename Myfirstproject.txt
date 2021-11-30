@@ -1,0 +1,5 @@
+Hello, My name is Arnaud. 
+I live in Etoy, near Lausanne and I have a 3-year old son with my spouse. 
+I am broker on commodity derivatives markets. Therefore, I spend my days with numbers, prices and graphs, and I like it. 
+I collect my own figures and stats on prices, crops, consumption, etc...and I making statistical analysis with it in order to give trading recommandations
+However, my experience in coding is weak; In the past, I did a few VBA programs to automate tasks and recently, I followed small courses on Python mainly, on various MOOCs. 
