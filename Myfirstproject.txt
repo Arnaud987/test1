@@ -1,5 +1,17 @@
 Hello, My name is Arnaud. 
 I live in Etoy, near Lausanne and I have a 3-year old son with my spouse. 
-I am broker on commodity derivatives markets. Therefore, I spend my days with numbers, prices and graphs, and I like it. 
-I collect my own figures and stats on prices, crops, consumption, etc...and I making statistical analysis with it in order to give trading recommandations
-However, my experience in coding is weak; In the past, I did a few VBA programs to automate tasks and recently, I followed small courses on Python mainly, on various MOOCs. 
+I am broker on commodity derivatives markets, mainly on agricultural products. Therefore, I spend my days with numbers, prices and graphs, and I like it! 
+I collect my own figures and stats on prices, crops, consumption, etc...and I make statistical analysis with it in order to give trading recommandations
+However, my experience in coding is weak but I am really eager to learn. In the past, I did a few VBA programs to automate tasks and recently, I followed small courses on Python mainly, on various MOOCs.
+
+After months of intense thinking, I have decided to follow the EPFL course. Indeed, it fits with my need to focus on Python (it is very popular among companies), the quality looks high and I like the idea of a strong capstone project followed by professors. 
+My ambition is to use the knowledge of this course to:
+1) to model and forecast commodity prices, production, consumption, etc... 
+2) to get the tools to manage the large quantity of datas produced in commodity trading house (logistic, stocks, operations). 
+3) to get the basics which will allow me to build my own algo trading - coding languages
+
+I am looking forward to speaking with you.
+
+Best regards,
+
+Arnaud 
